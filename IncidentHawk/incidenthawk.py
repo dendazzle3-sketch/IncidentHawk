@@ -10,7 +10,7 @@ a timestamped, hash-verified evidence bundle plus a human-readable report.
 Read-only by design: IncidentHawk never modifies, kills, blocks, or deletes
 anything on the host. It only collects and reports.
 
-Author : Tanvir
+Author : Afsa Taj
 License: MIT
 """
 
